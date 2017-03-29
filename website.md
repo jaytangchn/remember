@@ -8,3 +8,4 @@
 ### 工具
 - [JetBrains 激活1](http://jetbrains.oliyo.cn)  & [JetBrains 激活2](http://xidea.online) ：不是用来访问的，伪装的服务器，类似KMS激活。
 - [启动盘制作](http://rufus.akeo.ie/?locale=zh_CN) : 好用强大免费开源的启动盘制作程序，开发者给钱都不要。
+- [大马路导航](https://dama.lu/) : 厌倦了hao123等各种毒瘤？试试这个吧，简洁清爽，可以自定义。
