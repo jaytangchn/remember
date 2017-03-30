@@ -15,6 +15,7 @@
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
 - [特百度](http://www.tebaidu.com/) : 基于百度网盘的资源搜索引擎。资源丰富，分类明了。（没有小电影）
+- [kindle资源推送](http://readfree.me/) : 注册账号，每天可以免费推送三本。
 
 ### FQ
 - [DNS之xsico](http://dns.xsico.cn/) : FQ DNS ，一般是个人搭建，随时可能倒下，如果可以，也捐助下吧。使用也要注意信息安全。
