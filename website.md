@@ -21,3 +21,5 @@
 - [DNS之mogu](http://dns.xsico.cn/) : 同上。
 - [DNS之AIXYZ](https://aixyz.com/index.html) ：同上。
 - [DNS之pure](http://puredns.cn/) : 同上。
+- [SS之免费账号分享](https://freessr.xyz/) : FQ工具里的瑞士军刀，且用且珍惜吧，如果是刚需且常用，建议付费购买账号。
+- [hosts之老D](https://laod.cn/hosts) : 常年更新google hosts，具体操作都有详尽介绍，适合小白。其他内容也可以看看，还不错，看着很舒服。
