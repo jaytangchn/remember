@@ -5,6 +5,7 @@
 ### 娱乐
 - [在线电视直播](http://www.cietv.com/) : 看电视不多，偶尔在线看看就无需装客户端了，资源非常丰富。
 - [4chan](http://www.4chan.org/) : 匿名论坛，不管你是谁，不管你发什么，请随意。一个没有记忆的论坛，十几年都没变化。
+- [pandaTV](http://live.ipanda.com/) : 熊猫直播，不是王思聪的熊猫直播，是直播熊猫的直播……
 
 ### 好玩
 - [滑稽](http://lvmaojun.com/huaji/) ：纯粹滑稽。
@@ -21,6 +22,8 @@
 - [特百度](http://www.tebaidu.com/) : 基于百度网盘的资源搜索引擎。资源丰富，分类明了。（没有小电影）
 - [kindle资源推送](http://readfree.me/) : 注册账号，每天可以免费推送三本。
 - [a+医学百科](http://www.a-hospital.com/) : 专注医药相关的各种知识普及，涵盖面非常广泛，值得一看。
+- [u表情](http://www.ubiaoqing.com/) ： 这是我见过的最高质量的表情包下载网站。
+- [斗图啦](http://www.doutula.com/) ：同样是表情包资源网站，不过还可以在线制作表情包，来试试吧。
 
 ### FQ
 - [DNS之xsico](http://dns.xsico.cn/) : FQ DNS ，一般是个人搭建，随时可能倒下，如果可以，也捐助下吧。使用也要注意信息安全。
