@@ -24,6 +24,8 @@
 - [a+医学百科](http://www.a-hospital.com/) : 专注医药相关的各种知识普及，涵盖面非常广泛，值得一看。
 - [u表情](http://www.ubiaoqing.com/) ： 这是我见过的最高质量的表情包下载网站。
 - [斗图啦](http://www.doutula.com/) ：同样是表情包资源网站，不过还可以在线制作表情包，来试试吧。
+- [追新番](http://www.zhuixinfan.com/viewall-film-1.html) : 日剧，日影下载。
+- [BT之家](http://www.btbtt.co/) : 影视、动漫、综艺、书籍等下载。
 
 ### FQ
 - [DNS之xsico](http://dns.xsico.cn/) : FQ DNS ，一般是个人搭建，随时可能倒下，如果可以，也捐助下吧。使用也要注意信息安全。
