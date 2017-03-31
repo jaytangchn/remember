@@ -4,8 +4,12 @@
 
 ### 娱乐
 - [在线电视直播](http://www.cietv.com/) : 看电视不多，偶尔在线看看就无需装客户端了，资源非常丰富。
-- [2048](http://gabrielecirulli.github.io/2048/) : 在线2048小游戏，无聊时可以玩玩。
 - [4chan](http://www.4chan.org/) : 匿名论坛，不管你是谁，不管你发什么，请随意。一个没有记忆的论坛，十几年都没变化。
+
+### 好玩
+- [滑稽](http://lvmaojun.com/huaji/) ：纯粹滑稽。
+- [riddle](http://riddle.arthurluk.net/stageone.php#) : 如果你是一名程序员，来玩玩？看看能到几关？
+- [2048](http://gabrielecirulli.github.io/2048/) : 在线2048小游戏，无聊时可以玩玩。
 
 ### 工具
 - [JetBrains 激活1](http://jetbrains.oliyo.cn)  & [JetBrains 激活2](http://xidea.online) ：不是用来访问的，伪装的服务器，类似KMS激活。
