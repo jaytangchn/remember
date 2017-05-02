@@ -31,6 +31,7 @@
 - [斗图啦](http://www.doutula.com/) ：同样是表情包资源网站，不过还可以在线制作表情包，来试试吧。
 - [追新番](http://www.zhuixinfan.com/viewall-film-1.html) : 日剧，日影下载。
 - [BT之家](http://www.btbtt.co/) : 影视、动漫、综艺、书籍等下载。
+- [花百科](http://www.huabaike.com/) : 恰好最近在研究种植，这里的貌似还不错，用来学学基础入门的技巧还是不错的。
 
 ### FQ
 - [DNS之xsico](http://dns.xsico.cn/) : FQ DNS ，一般是个人搭建，随时可能倒下，如果可以，也捐助下吧。使用也要注意信息安全。
