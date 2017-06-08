@@ -23,6 +23,7 @@
 - [全搜](http://www.qi1y.cn/) : 无广告，集成百度和google。
 - [bird搜](http://bird.so/) : 非常清新简洁的小众搜索.
 - [duckduck](https://duckduckgo.com/?t=h_) : 小众,简洁的搜索引擎, 主打的特色是保护用户的隐私!
+- [油猴子](https://tampermonkey.net/) : 浏览器插件,支持各个版本浏览器,可以通过脚本观看vip视频,去广告,下载高音质歌曲,去验证码, 百度云直接下载等...
 
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
