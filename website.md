@@ -4,16 +4,15 @@
 
 ### 娱乐
 - [在线电视直播](http://www.cietv.com/) : 看电视不多，偶尔在线看看就无需装客户端了，资源非常丰富。
-- [4chan](http://www.4chan.org/) : 匿名论坛，不管你是谁，不管你发什么，请随意。一个没有记忆的论坛，十几年都没变化。
 - [pandaTV](http://live.ipanda.com/) : 熊猫直播，不是王思聪的熊猫直播，是直播熊猫的直播……
 - [桐路](http://t.onglu.pw/index.php) ：正宗的在线FC游戏合集
-
+- [2048](http://gabrielecirulli.github.io/2048/) : 在线2048小游戏，无聊时可以玩玩。
+- [原谅帽游戏](http://ssyar.com/green/) : 是男人就来大战300回合.
 
 ### 好玩
 - [滑稽](http://lvmaojun.com/huaji/) ：纯粹滑稽。
 - [riddle](http://riddle.arthurluk.net/stageone.php#) : 如果你是一名程序员，来玩玩？看看能到几关？
-- [2048](http://gabrielecirulli.github.io/2048/) : 在线2048小游戏，无聊时可以玩玩。
-- [原谅帽游戏](http://ssyar.com/green/) : 是男人就来大战300回合.
+
 
 ### 工具
 - [JetBrains 激活1](http://jetbrains.oliyo.cn)  & [JetBrains 激活2](http://xidea.online) ：不是用来访问的，伪装的服务器，类似KMS激活。
@@ -53,6 +52,7 @@
 ### 论坛
 - [v2ex](https://www.v2ex.com/): 混过的最舒适的一个论坛，发言扣金币的政策在论坛中算是比较独特，论坛整体质量比较高，但依旧算是比较小众。
 - [虫部落](http://www.chongbuluo.com/)：讨论电脑技巧，搜索相关的论坛，整体质量非常高，因为邀请码非常难搞到。
+- [4chan](http://www.4chan.org/) : 匿名论坛，不管你是谁，不管你发什么，请随意。一个没有记忆的论坛，十几年都没变化。
 
 ### 推荐的博主或up主
 - [阮一峰](http://www.ruanyifeng.com/blog/): 不用说了，大神，看百度百科吧。
