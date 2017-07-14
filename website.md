@@ -44,9 +44,17 @@
 - [windows绝赞应用](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN/): 看名字即可知道.类似的还有linux , MacOs的合集, 不常用就不贴出来了.
 ### FQ
 - [DNS之xsico](http://dns.xsico.cn/) : FQ DNS ，一般是个人搭建，随时可能倒下，如果可以，也捐助下吧。使用也要注意信息安全。
-- [DNS之mogu](http://dns.xsico.cn/) : 同上。
 - [DNS之AIXYZ](https://aixyz.com/index.html) ：同上。
 - [DNS之pure](http://puredns.cn/) : 同上。
 - [SS之免费账号分享](https://freessr.xyz/) : FQ工具里的瑞士军刀，且用且珍惜吧，如果是刚需且常用，建议付费购买账号。
 - [hosts之老D](https://laod.cn/hosts) : 常年更新google hosts，具体操作都有详尽介绍，适合小白。其他内容也可以看看，还不错，看着很舒服。
 - [逗比根据地](https://doub.bid/) : 一个关于科学上网的博客，两年前还是默默无闻，如今都已经火热到被墙，QQ群也被解散，逗比还在坚持，现在看到的只是镜像站。
+
+### 论坛
+- [v2ex](https://www.v2ex.com/): 混过的最舒适的一个论坛，发言扣金币的政策在论坛中算是比较独特，论坛整体质量比较高，但依旧算是比较小众。
+- [虫部落](http://www.chongbuluo.com/)：讨论电脑技巧，搜索相关的论坛，整体质量非常高，因为邀请码非常难搞到。
+
+### 推荐的博主或up主
+- [阮一峰](http://www.ruanyifeng.com/blog/): 不用说了，大神，看百度百科吧。
+- [廖雪峰](http://www.liaoxuefeng.com/)：文章主要是计算机方面的。
+- [王垠](http://www.yinwang.org/)：程序员中的网红，非常有个性，有意思的一个人。
