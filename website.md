@@ -28,6 +28,7 @@
 - [油猴子](https://tampermonkey.net/) : 浏览器插件,支持各个版本浏览器,可以通过脚本观看vip视频,去广告,下载高音质歌曲,去验证码, 百度云直接下载等...顺便分享两个脚本下载站[常用](https://greasyfork.org/zh-CN),[成人](https://sleazyfork.org/zh-CN)
 - [hao7188](http://www.hao7188.com/) : 非常精确的ip地址查询工具
 - [免费音乐下载](https://www.tikitiki.cn/) : 支持腾讯,网易,酷狗音乐免费下载.
+- [WGestures全局鼠标手势](http://www.yingdev.com/projects/wgestures):　WGestures是一款非常好用的Windows系统全局鼠标手势工具软件
 
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
