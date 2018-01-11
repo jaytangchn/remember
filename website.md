@@ -29,6 +29,7 @@
 - [hao7188](http://www.hao7188.com/) : 非常精确的ip地址查询工具
 - [免费音乐下载](https://www.tikitiki.cn/) : 支持腾讯,网易,酷狗音乐免费下载.
 - [WGestures全局鼠标手势](http://www.yingdev.com/projects/wgestures):　WGestures是一款非常好用的Windows系统全局鼠标手势工具软件
+- [12306bypass](http://www.12306bypass.com/): 完全免费的抢票软件
 
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
