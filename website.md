@@ -63,3 +63,8 @@
 - [廖雪峰](http://www.liaoxuefeng.com/)：文章主要是计算机方面的。
 - [王垠](http://www.yinwang.org/)：程序员中的网红，非常有个性，有意思的一个人。
 - [王爵](https://blog.biezhi.me/)：Java框架Blade的作者，一个非常活跃的开源开发者，强烈推荐他的博客系统，tale。
+
+### 瞎搞
+- [以太冥币](https://mingbi.io/home):以太坊史上最唬烂以太坊的智能合约.
+- [以太坟](https://www.etherfen.com/#/home):全球第一个基于区块链技术打造的数字坟墓.
+- [傻逼链](http://www.stupidcoin.cn/):基于区块链思想的去中心化傻逼共享联网平台.
