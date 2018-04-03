@@ -15,6 +15,7 @@
 ### 好玩
 - [滑稽](http://lvmaojun.com/huaji/) ：纯粹滑稽。
 - [riddle](http://riddle.arthurluk.net/stageone.php#) : 如果你是一名程序员，来玩玩？看看能到几关？
+- [假装电脑蓝屏](http://fakeupdate.net/): 按 F11 开始全屏,按回车来触发蓝屏界面
 
 
 ### 工具
