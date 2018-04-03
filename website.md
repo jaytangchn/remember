@@ -2,6 +2,9 @@
 - [ppt利器](http://www.hippter.com/) : 各种ppt模板网站导航，还有很多网站链接提供寻找灵感。
 - [在线格式转换](http://cn.office-converter.com/) : 提供了包括各种文档，音频，视频，图片之间的转换。
 
+### 有用
+- [自助人身安全保护令申请表单](http://blog.hanming.li/selfProtectionOrder/): 本地快速生成人身安全保护令文书.
+
 ### 娱乐
 - [在线电视直播](http://www.cietv.com/) : 看电视不多，偶尔在线看看就无需装客户端了，资源非常丰富。
 - [pandaTV](http://live.ipanda.com/) : 熊猫直播，不是王思聪的熊猫直播，是直播熊猫的直播……
