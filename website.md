@@ -34,7 +34,7 @@
 - [免费音乐下载](https://www.tikitiki.cn/) : 支持腾讯,网易,酷狗音乐免费下载.
 - [WGestures全局鼠标手势](http://www.yingdev.com/projects/wgestures):　WGestures是一款非常好用的Windows系统全局鼠标手势工具软件
 - [12306bypass](http://www.12306bypass.com/): 完全免费的抢票软件
-- [finalshell]:(http://www.hostbuf.com/): 优秀的国产ssh远程登录软件.进程监控、资源监控、网络延迟、文件传输等等功能直接集成在同一个窗口桌面下，非常直观.
+- [finalshell](http://www.hostbuf.com/): 优秀的国产ssh远程登录软件.进程监控、资源监控、网络延迟、文件传输等等功能直接集成在同一个窗口桌面下，非常直观.
 
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
