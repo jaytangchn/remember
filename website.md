@@ -38,6 +38,7 @@
 - [国产动态壁纸](http://wallpaper.upupoo.com/store/index.htm):软萌的动态壁纸 
 - [Listen 1](http://listen1.github.io/listen1/):搜索和播放来自网易云音乐，虾米，QQ音乐三个主流音乐网站的歌曲
 - [桌面日历](http://chs.desktopcal.com/chs/): 就是个桌面日历而已
+- [主页](https://www.zhuye.kim/): 又是一款优秀的主页
 
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
