@@ -17,6 +17,7 @@
 - [riddle](http://riddle.arthurluk.net/stageone.php#) : 如果你是一名程序员，来玩玩？看看能到几关？
 - [假装电脑蓝屏](http://fakeupdate.net/): 按 F11 开始全屏,按回车来触发蓝屏界面
 - [圆周率](http://www.1415926pi.com/): 看看你的生日出现在圆周率的第几位?
+- [星海中的记忆](http://i-remember.fr/en/): 可以在星海中抓取一个光点，上传自己的照片或者欣赏他人的记忆
 
 
 ### 工具
