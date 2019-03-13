@@ -11,6 +11,7 @@
 - [桐路](http://t.onglu.pw/index.php) ：正宗的在线FC游戏合集
 - [2048](http://gabrielecirulli.github.io/2048/) : 在线2048小游戏，无聊时可以玩玩。
 - [原谅帽游戏](http://ssyar.com/green/) : 是男人就来大战300回合.
+- [极简效率](https://tophub.today/):聚合全网新闻社区热点排行榜 ！
 
 ### 好玩
 - [滑稽](http://lvmaojun.com/huaji/) ：纯粹滑稽。
