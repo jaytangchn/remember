@@ -56,6 +56,7 @@
 - [魔趣](https://download.mokeedev.com/) : 本土化的CM rom, 适合想体验原生安卓的国内刷机党。
 - [windows绝赞应用](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/zh-CN/): 看名字即可知道.类似的还有linux , MacOs的合集, 不常用就不贴出来了.
 - [计算机电子书](http://it-ebooks.flygon.net/): 免费的计算机电子书下载
+- [高清壁纸](https://bz.zzzmh.cn/):简单粗暴
 - [免费编程书籍](http://siberiawolf.com/free_programming/index.html):同上
 ### FQ
 - [DNS之xsico](http://dns.xsico.cn/) : FQ DNS ，一般是个人搭建，随时可能倒下，如果可以，也捐助下吧。使用也要注意信息安全。
