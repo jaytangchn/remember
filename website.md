@@ -44,6 +44,7 @@
 - [主页](https://www.zhuye.kim/): 又是一款优秀的主页
 - [万花筒](https://wht.im/): 简约导航
 - [简约的搜索](https://lookao.com/):搜索
+- [音乐解锁](https://moresound.tk/music/tool/): qq音乐, 网易云音乐,酷狗音乐 虾米音乐特殊格式解锁
 
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
@@ -60,6 +61,8 @@
 - [计算机电子书](http://it-ebooks.flygon.net/): 免费的计算机电子书下载
 - [高清壁纸](https://bz.zzzmh.cn/):简单粗暴
 - [免费编程书籍](http://siberiawolf.com/free_programming/index.html):同上
+- [中文马克思主义文库](https://www.marxists.org/chinese/index.html):中文马克思主义文库
+
 ### FQ
 - [DNS之xsico](http://dns.xsico.cn/) : FQ DNS ，一般是个人搭建，随时可能倒下，如果可以，也捐助下吧。使用也要注意信息安全。
 - [DNS之AIXYZ](https://aixyz.com/index.html) ：同上。
