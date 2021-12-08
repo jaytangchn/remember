@@ -12,6 +12,7 @@
 - [2048](http://gabrielecirulli.github.io/2048/) : 在线2048小游戏，无聊时可以玩玩。
 - [原谅帽游戏](http://ssyar.com/green/) : 是男人就来大战300回合.
 - [极简效率](https://tophub.today/):聚合全网新闻社区热点排行榜 ！
+- [畅玩空间](https://play.wo1wan.com/login?go=aHR0cHM6Ly9wbGF5LndvMXdhbi5jb20vbmV4dGdhbWUvcGMv#/?ref=appinn): 经典FC 红白机游戏。可在线，联机
 
 ### 好玩
 - [滑稽](http://lvmaojun.com/huaji/) ：纯粹滑稽。
