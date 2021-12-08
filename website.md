@@ -46,6 +46,7 @@
 - [万花筒](https://wht.im/): 简约导航
 - [简约的搜索](https://lookao.com/):搜索
 - [音乐解锁](https://moresound.tk/music/tool/): qq音乐, 网易云音乐,酷狗音乐 虾米音乐特殊格式解锁
+- [B站视频解析](https://bilibili.iiilab.com/): 视频解析下载
 
 ### 资源
 - [pixabay](https://pixabay.com/) : 免费高质量图片（摄影图、矢量图等）下载，不用担心版权问题。
